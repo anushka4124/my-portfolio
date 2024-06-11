@@ -62,6 +62,7 @@ Pillow==9.4.0
 pipenv==2023.12.1
 platformdirs==3.10.0
 protobuf==4.25.3
+psycopg2-binary==2.9.9
 pydantic==2.5.3
 pydantic_core==2.14.6
 pydub==0.25.1
